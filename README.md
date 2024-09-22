@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 - 🎓 I'm currently studying at **FPT University (HCM)**
-- 🚀 I'm learning: **Java**, **NodeJS**, and **Web Development**
+- 🚀 I'm learning: **Java**, **NodeJS**, and **Backend Development**
 - 📫 How to reach me: tranquocbao07052003@gmail.com
 - 🎉 Fun fact: I enjoy **reading books**, **playing football**, and of course, **breathing**
 
